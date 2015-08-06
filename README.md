@@ -15,3 +15,11 @@ This plugin uses Barcode4J and ZXing to generate barcodes, it saves the file to 
 I haven't tested them all, but it should support all types that Barcode4J supports, as well as QR codes.
 
 I'll create a list here with the known supported types.
+
+## Installation
+Just drop the .jar files into your WEB-INF/lib directory and restart your server.
+
+openbdplugin-barcode.jar
+zxing-core-3.2.0.jar
+avalon-framework-4.2.0.jar
+barcode4j.jar
