@@ -20,6 +20,9 @@ I'll create a list here with the known supported types.
 Just drop the .jar files into your WEB-INF/lib directory and restart your server.
 
 openbdplugin-barcode.jar
+
 zxing-core-3.2.0.jar
+
 avalon-framework-4.2.0.jar
+
 barcode4j.jar
